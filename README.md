@@ -2,6 +2,10 @@
 
 Shiny app to explore patent data of innovation group.
 
+# Development
+
+Source run.R to launch shiny app.
+
 # Docker
 
 To build:
